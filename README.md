@@ -1,53 +1,62 @@
-<div class="panel-group" id="accordion">
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" 
-                href="#collapseOne">
-                点击我进行展开，再次点击我进行折叠。第 1 部分
-                </a>
-            </h4>
-        </div>
-        <div id="collapseOne" class="panel-collapse collapse in">
-            <div class="panel-body">
-                Nihil anim keffiyeh helvetica, craft beer labore wes anderson 
-                cred nesciunt sapiente ea proident. Ad vegan excepteur butcher 
-                vice lomo.
-            </div>
-        </div>
-    </div>
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" 
-                href="#collapseTwo">
-                点击我进行展开，再次点击我进行折叠。第 2 部分
-            </a>
-            </h4>
-        </div>
-        <div id="collapseTwo" class="panel-collapse collapse">
-        <div class="panel-body">
-            Nihil anim keffiyeh helvetica, craft beer labore wes anderson 
-            cred nesciunt sapiente ea proident. Ad vegan excepteur butcher 
-            vice lomo.
-        </div>
-        </div>
-    </div>
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" data-parent="#accordion" 
-                href="#collapseThree">
-                点击我进行展开，再次点击我进行折叠。第 3 部分
-                </a>
-            </h4>
-        </div>
-        <div id="collapseThree" class="panel-collapse collapse">
-            <div class="panel-body">
-                Nihil anim keffiyeh helvetica, craft beer labore wes anderson 
-                cred nesciunt sapiente ea proident. Ad vegan excepteur butcher 
-                vice lomo.
-            </div>
-        </div>
-    </div>
-</div>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>纯CSS实现百叶窗</title>
+        <style type="text/css">
+            * {
+               margin: 0;
+               padding: 0;
+               }
+            
+            #parent >li> span{background: #999999;display: block;width: 200px;border:1px solid #ECEEF2;}
+            li {line-height: 40px;display: block;}
+            li  p{
+                    display: inline-block;
+                    width: 0px;
+                    height: 0px;
+                    border-left: 5px solid transparent;
+                    border-right: 5px solid transparent;
+                    border-top: 5px solid#2f2f2f;
+                      }
+             li>ul{display: none;}
+             li>ul>li{border: 1px solid #DEDEDE;width: 199px;}
+             #parent span:hover + ul{display: block;}
+             #parent span:hover >p{
+                     display: inline-block;
+                    width: 0px;
+                    height: 0px;
+                    border-top: 5px solid transparent;
+                    border-bottom: 5px solid transparent;
+                    border-left: 5px solid#2f2f2f;}
+        </style>
+    </head>
+    <body>
+        <ul id="parent">
+            <li>
+                <span><p></p>列表</span>
+                <ul>
+                    <li>子列表</li>
+                    <li>子列表</li>
+                    <li>子列表</li>
+                </ul>
+            </li>
+            <li>
+                <span><p></p>列表</span>
+                <ul>
+                    <li>子列表</li>
+                    <li>子列表</li>
+                    <li>子列表</li>
+                </ul>
+            </li>
+            <li>
+                <span><p></p>列表</span>
+                <ul>
+                    <li>子列表</li>
+                    <li>子列表</li>
+                    <li>子列表</li>
+                </ul>
+            </li>
+        </ul>
+    </body>
+</html>
