@@ -145,9 +145,25 @@ or Weapon Master*.
 > At the GM’s option, a mage or psi may also learn this skill.  
 
 你可以集中精神抵抗心理攻击。在抵抗法术，灵能，催眠，视线躲藏，狮吼功和类似能力时用此技能等级代替意志进行检定。在其他意志检定中无法用此技能替换。还有，这个技能在你震慑，睡眠，或无意识时不起作用--以上情况需要心灵护盾优势。
-### 精神屏蔽Mind Block	
-### Musical Influence	
+### 精神屏障Mind Block	
+Will/Average   
+Defaults: Will-5 or Meditation-5.  
+精神屏障阻止所有试图窃听你想法和情绪的魔法或灵能。屏蔽的技巧很简单，思考复杂的数学问题或一遍又一遍的吟唱诗歌。每个人经过训练后都可以掌握这个技巧。你需要每分钟做一次检定来保持屏蔽。在战斗或其他紧张情况中，你需要每秒做一次检定。  
+如果检定成功，想要阅读你思想的人必须在他的思维阅读能力vs.你的精神屏障等级的对抗中获得胜利。否则，对方只能读到数学题或诗歌。但是，如果你的检定大失败，你脑海中现有的思想会直接被他人所阅读。这个技能只能对抗阅读思想而不是精神控制或其他心灵攻击。如果你有其他超自然的精神防护，那精神屏障能力只有在攻击穿过所有其他防护后才判定。  
+
+> 调整值：如果你全神贯注的防御+2，如果震慑（生理or心理）-3，隐藏情感而非思想-2或更多，GM决定。
+
+### Musical Influence	  
+IQ/VH  
+Defaults: None.  
+Prerequisites: Musical Ability 1 and
+either Musical Instrument or Singing at 12+.  
+这个电影化技能让你通过演奏乐器或唱歌来影响他人心灵。某些情况下，这是一种魔法或灵能天赋，或是一种特殊的催眠术。在其他设定中，这效果是基于某种特定类型的魔法或超高科技仪器。
 ### 猛力攻击Power Blow	
+Will/Hard  
+Defaults: None.  
+Prerequisites: Trained By A Master or Weapon Master.  
+调动你的内力进行毁灭性打击。每次攻击只进行一次检定。每次猛力攻击无论成败消耗1FP。如果成功，下次攻击使用双倍力量值，受到正常加值减值影响。而且攻击必须在检定后立刻进行。如果你
 ### 点穴Pressure Points	
 ### 秘孔Pressure Secrets	
 ### 推Push	
