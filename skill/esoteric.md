@@ -121,22 +121,30 @@ Defaults: None.
 Prerequisites: Trained By A Master,
 and both Hypnotism and Stealth at 14+.  
 这是一种传奇技巧，经常被忍者或其他武术大师使用。它能让你在众目睽睽之下不被人发现。它需要一秒的专注来激活。之后，每秒都需要与所有能看见你的人进行一个视线躲藏vs.视觉的快速对抗，观察者受光线减值。如果观察者将注意力集中在其他事情上或受到干扰，-3。 一个专门寻找入侵者的人 +3。 如果有人看见你并发出警报（指向你或发声示警），所有相信警告的人在下一回合获得+3 加值。如果你胜利了，那个人一秒内无法看见你。如果有人看见你，那视线躲藏对他无效直到你离开他的视线（如藏入阴影中）。注意，这个能力在战斗中不起作用，一旦你攻击他人，你立刻被所有人看见。
-### 气Kiai	  
+
+### 狮吼功Kiai	  
 HT/hard
 Defaults: None.  
-Prerequisites: Trained By A Master or Weapon Master.  
-
+Prerequisites: Trained By A Master or Weapon Master.   
+你可以将气灌注在一声大喝（kiai）中来定住敌人。无论是否成功，每次尝试消耗1FP。敌人每隔2码你的检定-1。你的敌人获得+1加值如果他听力不好，如果是聋子+2。如果你赢得检定，你的对手被精神震慑（见眩晕的影响 p420）本技能只对一个人有效；所有人都可以听见你的大喝，但是气只针对一个敌人。但是，狮吼功仍然可以让你在对抗所有听到声音的人的对抗中获得+2加值。
 ### 轻身步Light Walk	
-DX/hard  
+DX/Hard  
 Defaults: None.  
 Prerequisites: Trained By A Master,
 and both Acrobatics and Stealth at 14+  
 这个技能能让你在行走中不留痕迹。一个成功的轻身步检定能让你不留痕迹的行走。对你的跟踪检定自动失败，除非跟踪者不只依靠视力来跟踪。因此，人形追踪者会被迷惑，但是猎犬不会受到任何减值。你还可以尝试走过脆弱的表面而不落下去，最大速度是正常速度的1/3。 薄冰需要一个正常的轻身步检定，米纸需要一个-8的检定。最后，轻身步能给潜行带来相当于轻身步检定成功度一半的加成，最小加成为1。  
 ### 冥想Meditation	
-will/hard
-Defaults: Will-6 or Autohypnosis-4.  
+Will/Hard  
+Defaults: Will-6 or Autohypnosis-4.    
 这是平静心绪，控制思想，放松身体的能力。要使用这个能力，你必须专注（20-技能等级）秒，然后进行技能检定。成功后进入一个可维持一小时的恍惚状态。冥想常常需要某些仪式，常见于祈祷准备中。此外，GM可能允许你打坐思考一个特定的道德困境。一个成功的冥想检定将“启发”你，告诉你哪种行动“感觉”正确。  
 ### 精神力量Mental Strength	
+Will/Easy
+Defaults: None.  
+Prerequisites: Trained By A Master
+or Weapon Master*.
+> At the GM’s option, a mage or psi may also learn this skill.  
+
+你可以集中精神抵抗心理攻击。在抵抗法术，灵能，催眠，视线躲藏，狮吼功和类似能力时用此技能等级代替意志进行检定。在其他意志检定中无法用此技能替换。还有，这个技能在你震慑，睡眠，或无意识时不起作用--以上情况需要心灵护盾优势。
 ### 精神屏蔽Mind Block	
 ### Musical Influence	
 ### 猛力攻击Power Blow	
