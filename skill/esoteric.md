@@ -126,7 +126,12 @@ HT/hard
 Defaults: None.  
 Prerequisites: Trained By A Master or Weapon Master.  
 
-### Light Walk	
+### 轻身步Light Walk	
+DX/hard  
+Defaults: None.  
+Prerequisites: Trained By A Master,
+and both Acrobatics and Stealth at 14+  
+这个技能能让你在行走中不留痕迹。一个成功的轻身步检定能让你不留痕迹的行走。对你的跟踪检定自动失败，除非跟踪者不只依靠视力来跟踪。因此，人形追踪者会被迷惑，但是猎犬不会受到任何减值。你还可以尝试走过脆弱的表面而不落下去，最大速度是正常速度的1/3。 薄冰需要一个正常的轻身步检定，米纸需要一个-8的检定。最后，轻身步能给潜行带来相当于轻身步检定成功度一半的加成，最小加成为1。  
 ### 冥想Meditation	
 ### 精神力量Mental Strength	
 ### 精神屏蔽Mind Block	
