@@ -24,4 +24,24 @@ Default： N/A
 前置：大師訓練，呼吸控制，和 冥想。  
 這個能力讓你有能力影響自然的身體機能，諸如心率、血流和消化。這個技能的作用之一就是在那些可能在診斷技能與你的肢體控制技能的快速對抗中獲勝的家夥發現你還活著之前進入假死狀態。這需要（30-技能等級）秒的專注時間，至少一秒。
 這個技能也可以用來驅除體內的毒素。真想這麼做的話，先投個毒藥（或者煉金術、藥劑學之類）技能檢定來辯識毒物。在你知道自己中毒了之前，你不可能嘗試做這個檢定。在大多數情況下，你只有當第一個症狀產生時才可能發現！技能檢定成功——加上抵抗毒素時投的體質檢定的調整值——就可以在毒藥效果不再加劇後1d個小時之內驅除毒素。
-最後，你可以使用這個技能的較高等級和基本的體質值來抵抗一切原本只由體制值抵抗的痛苦（Affliction）、魔咒和毒素攻擊。
+最後，你可以使用這個技能的較高等級和基本的體質值來抵抗一切原本只由體制值抵抗的痛苦（Affliction）、魔咒和毒素攻擊。  
+
+### 破勢掌Breaking Blow
+### 夢境Dreaming	
+### 惑控Enthrallment†	  
+### 密宗醫術Esoteric Medicine	  
+### 飛躍Flying Leap	
+### 不动Immovable Stance	
+### 隐身术法Invisibility Art	
+### 气Kiai	
+### Light Walk	
+### 冥想Meditation	
+### 精神力量Mental Strength	
+### 精神屏蔽Mind Block	
+### Musical Influence	
+### 猛力攻击Power Blow	
+### 点穴Pressure Points	
+### 秘孔Pressure Secrets	
+### 推Push	
+### 拋接藝術Throwing Art	
+### 禅宗箭术Zen Archery	
