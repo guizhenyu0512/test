@@ -92,6 +92,8 @@ Default： N/A
 體力損耗：4FP，不論成功與否。
 持續時間：1小時。
 </details>  
+
+
 ### 密宗醫術Esoteric Medicine	  
 ### 飛躍Flying Leap	
 ### 不动Immovable Stance	
