@@ -115,8 +115,17 @@ Defaults: None.
 Prerequisite: Trained By A Master.  
 这个技能允许你把你自己定到地面通过引导你的气或使用秘密的平衡技巧等等  
 每当发生会导致击退或击倒的攻击时（例如，推动或Push技能，第216页）进行一次技能检定。如果成功，你不会被击退，也不会被击倒。如果失败， 你被击退但仍然可以进行敏捷检定来避免击倒。若是出现大失败， 你会经历完整的击退并被击倒。这种技能也有助于防范柔道技巧攻击（第203页）。如果你在主动防守中（或选择不防守）对抗柔道投技失败， 你的对手必须在一个柔道vs.你的不动等级的快速对抗中获得胜利，否则， 他的投掷失败。
-### 隐身术法Invisibility Art	
-### 气Kiai	
+### 视线躲藏Invisibility Art	
+IQ/VH  
+Defaults: None.  
+Prerequisites: Trained By A Master,
+and both Hypnotism and Stealth at 14+.  
+这是一种传奇技巧，经常被忍者或其他武术大师使用。它能让你在众目睽睽之下不被人发现。它需要一秒的专注来激活。之后，每秒都需要与所有能看见你的人进行一个视线躲藏vs.视觉的快速对抗，观察者受光线减值。如果观察者将注意力集中在其他事情上或受到干扰，-3。 一个专门寻找入侵者的人 +3。 如果有人看见你并发出警报（指向你或发声示警），所有相信警告的人在下一回合获得+3 加值。如果你胜利了，那个人一秒内无法看见你。如果有人看见你，那视线躲藏对他无效直到你离开他的视线（如藏入阴影中）。注意，这个能力在战斗中不起作用，一旦你攻击他人，你立刻被所有人看见。
+### 气Kiai	  
+HT/hard
+Defaults: None.  
+Prerequisites: Trained By A Master or Weapon Master.  
+
 ### Light Walk	
 ### 冥想Meditation	
 ### 精神力量Mental Strength	
