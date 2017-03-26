@@ -162,9 +162,18 @@ either Musical Instrument or Singing at 12+.  
 ### 猛力攻击Power Blow	
 Will/Hard  
 Defaults: None.  
-Prerequisites: Trained By A Master or Weapon Master.  
-调动你的内力进行毁灭性打击。每次攻击只进行一次检定。每次猛力攻击无论成败消耗1FP。如果成功，下次攻击使用双倍力量值，受到正常加值减值影响。而且攻击必须在检定后立刻进行。如果你
+Prerequisites: Trained By A Master or Weapon Master.   
+调动你的内力进行毁灭性打击。每次攻击只进行一次检定。每次猛力攻击无论成败消耗1FP。如果成功，下次攻击使用双倍力量值，受到正常加值减值影响。而且攻击必须在检定后立刻进行。如果你猛力攻击的等级大于20，那你可以通过一个-10的技能检定来使用三倍力量值。  
+你在非战斗状态下也可以使用本技能，如推开一个沉重的箱子等，判定和上面一样。
+> 修正： 瞬间使用-10，专注一回合之后-5，两回合之后-4，4回合之后-3，8回合之后-2，16回合之后-1，32回合之后无减值。  
 ### 点穴Pressure Points	
+IQ/Hard
+Defaults: None*.  
+Prerequisites: Trained By A Master  
+or Weapon Master.  
+> May default to Esoteric Medicine-4 in a cinematic campaign.     
+
+这是通过点穴来禁止对手的技能。要使用这能力，你必须先用空手道（或其他适当战斗技能，见下）进行一次成功攻击，这个技能有-2的命中位置修正。如果至少1点攻击穿过DR，进行一个点穴vs.对方HT的快速对抗，如果你赢了，对方被你点穴并瘫痪。肢体瘫痪并重创5d秒，攻击躯干还会干扰敌人的呼吸，导致窒息。敌人可以每秒进行一次HT检定来恢复；攻击脸部导致震慑，需每秒进行一次IQ检定来恢复；攻击头骨导致致盲两秒钟，见盲人（p124）  
 ### 秘孔Pressure Secrets	
 ### 推Push	
 ### 拋接藝術Throwing Art	
