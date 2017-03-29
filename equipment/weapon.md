@@ -1,6 +1,6 @@
 ### 伤害类型
 | aff | affliction |
-| -------| ------- |
+| ------- | ------- |
 | burn | burning |
 | cor | corrosion |
 | cr | crushing |
