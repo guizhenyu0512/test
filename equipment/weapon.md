@@ -1,18 +1,13 @@
 ### 伤害类型
-| aff | affliction |
-| ------- | ------- |
-| burn | burning |
-| cor | corrosion |
-| cr | crushing |
-| cut | cutting |
-| fat | fatigue |
-| imp | impaling |
-| pi- | small piercing |
-| pi | piercing |
-| pi+ | large piercing |
-| pi++ | huge piercing |
-
-| 一个普通标题 | 一个普通标题 | 一个普通标题 |
-| ------ | ------ | ------ |
-| 短文本 | 中等文本 | 稍微长一点的文本 |
-| 稍微长一点的文本 | 短文本 | 中等文本 |
+| aff | affliction | damage |
+| ------- | ------- | ------- |
+| burn | burning |  |
+| cor | corrosion |  |
+| cr | crushing | 100% |
+| cut | cutting | 150% |
+| fat | fatigue | 100% |
+| imp | impaling | 200% |
+| pi- | small piercing | 50% |
+| pi | piercing | 100% |
+| pi+ | large piercing | 150% |
+| pi++ | huge piercing | 200% |
