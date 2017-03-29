@@ -121,8 +121,8 @@
   被“连带”的攻击只需要注明伤害大小和类型，其他属性由载体决定。如果载体击穿了DR，被“连带”的攻击和HT检定将不受DR影响。
   如果载体攻击是自然武器（natural weapon），+0%。（例外，（异常：被动载体攻击如体刺，连带是-50％限制因子。）
   如果载体攻击是天生武器，那么后续攻击价值基于此天生武器选择的部分其他因子价值总和。会导致连带价值增加的因子如下： 
-  > 常开Always On, 灵光	Aura, Cone,
-  Drifting, Emanation, Emergencies
+  > 常开Always On, 灵光Aura, 锥形Cone,
+  飘荡Drifting, Emanation, Emergencies
   Only, Extra Recoil, Guided, Homing,
   Increased Range, Jet, Limited Use,
   Malediction, Melee Attack, Preparation
