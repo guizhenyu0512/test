@@ -122,16 +122,31 @@
   如果载体攻击是自然武器（natural weapon），+0%。（例外，（异常：被动载体攻击如体刺，连带是-50％限制因子。）
   如果载体攻击是天生武器，那么后续攻击价值基于此天生武器选择的部分其他因子价值总和。会导致连带价值增加的因子如下： 
   > 常开Always On, 灵光Aura, 锥形Cone,
-  飘荡Drifting, Emanation, Emergencies
-  Only, Extra Recoil, Guided, Homing,
-  Increased Range, Jet, Limited Use,
-  Malediction, Melee Attack, Preparation
-  Required, Rapid Fire, Reduced
-  Range, Takes Extra Time, Takes
-  Recharge, Unconscious Only,
-  Uncontrollable, or Unreliable. 
-### 
-### 
+  飘荡Drifting, 散发Emanation, 紧急情形有效Emergencies
+  Only, 额外后座力Extra Recoil, 制导Guided, 自引导Homing,
+  增加射程Increased Range, 射流Jet, 有限使用Limited Use,
+  恶咒Malediction, 近战攻击Melee Attack, 需要时间准备Preparation
+  Required, 增加射速Rapid Fire, 减少射程Reduced
+  Range, 需要额外时间Takes Extra Time, 使用具有间隔时间Takes
+  Recharge, 只能无意识使用Unconscious Only,
+  难以控制Uncontrollable, or 可靠性差Unreliable. 
+  
+### 制导或寻的（Guided or Homing）（攻击类）（见下）：
+  首先，你攻击数据的1/2D数值变成攻击移动的速度。
+  【制导】（+50%）：由你引导攻击去进攻目标，你无视距离（不含速度）减值。如果攻击一轮之内没有命中目标，之后你需要每轮进行一个专注动作来制导。如果你看不见目标，攻击自动失效。
+  【寻的】（与攻击的感知能力有关，基础价+50%，根据选定观测方法所需点数每点+1%）：攻击自己引导自己，最终的攻击与你的攻击技能无关，攻击检定10+Acc。
+  如果制导或寻的有1/2D，那把其当作飞行速度（码/秒）如果对方在此距离之外，那你需要多轮来命中。伤害无需减半，但是命中之前不会有伤害。
+  
+### 增加射程（Increased Range）（+10%每等级）：
+  同时增加1/2d和最大射程，单独增加其中一样半价。1/2d射程不能大于最大射程。
+| Range Multiple |
+| --------- | --------- |
+| 2× | +10% |
+| 5× | +20% |
+| 10× | +30% |
+| 20× | +40% |
+| 50× | +50% |
+| 100× | +60% |
 ### 
 ### 
 ### 
