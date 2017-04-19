@@ -1,5 +1,16 @@
 斧/錘Axe/Mace
 
+单手斧锤 DX/Average （ＤＸ－５，链枷－４，或双手斧／双手钉头锤－３）
+
+任何短，中长度的单手武器，例如：斧，短柄斧，带有把手的短棍，或镐。
+
+Two-Handed Axe/Mace
+(DX/Average): Any long, two-handed
+impact weapon, such as a baseball
+bat, battleaxe, maul, or warhammer.
+Defaults: Polearm-4 or Two-Handed
+Flail-4.
+
 拳擊Boxing
 
 打架Brawling
