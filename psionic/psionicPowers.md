@@ -9,6 +9,30 @@
   > ###### [获得新的心灵能力](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#获得新的心灵能力-1)
 
   > ###### [使用心灵异能](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#使用心灵异能-1)
+  
+* 灵能列表
+
+  > ###### 反灵能系
+  
+  > ###### 投影系
+  
+  > ###### 电磁系
+  
+  > ###### 超感系
+  
+  > ###### 塑能系
+  
+  > ###### 治愈系
+  
+  > ###### 汲能系
+  
+  > ###### 转化系
+  
+  > ###### 附魔系
+  
+  > ###### 传送系
+  
+  
 
 # 心灵异能
 
