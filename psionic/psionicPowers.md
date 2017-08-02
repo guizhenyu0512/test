@@ -19,7 +19,7 @@
 > ###### [电磁系](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#电磁系-1)
   
 > ###### [超感系](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#超感系-1)
-  
+
 > ###### [塑能系](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#塑能系-1)
 
 > ###### [治愈系](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#治愈系-1)
