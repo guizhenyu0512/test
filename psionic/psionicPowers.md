@@ -2,9 +2,9 @@
 
 * [心灵异能](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#心灵异能)
 
-  > ###### [异能，能力与异能天赋](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#异能，能力与异能天赋)
+  > ###### [异能，能力与异能天赋](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#异能，能力与异能天赋-1)
 
-  > ###### [灵能效果](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#灵能效果)
+  > ###### [灵能效果](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#灵能效果-1)
 
   > ###### [获得新的心灵能力](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#获得新的心灵能力)
 
