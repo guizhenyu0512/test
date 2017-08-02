@@ -1,4 +1,9 @@
-# 第六章 心灵异能
+> 目录
+> [心灵异能](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#心灵异能)
+> [异能，能力与异能天赋](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#异能，能力与异能天赋)
+
+
+# 心灵异能
 
 
 `这一章的规则相关于灵能世界中的灵能人物。如果你没有创建一个灵能人物，则可忽略此章.`
