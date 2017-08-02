@@ -1,4 +1,4 @@
-> #### 目录
+> ### 目录
 
 > ###### [心灵异能](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#心灵异能)
 
