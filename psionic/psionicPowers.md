@@ -12,25 +12,25 @@
   
 * 灵能列表
 
-> ###### 反灵能系
+> ###### [反灵能系](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#反灵能系-1)
   
-> ###### 投影系
+> ###### [投影系](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#投影系-1)
   
-> ###### 电磁系
+> ###### [电磁系](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#电磁系-1)
   
-> ###### 超感系
+> ###### [超感系](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#超感系-1)
   
-> ###### 塑能系
+> ###### [塑能系](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#塑能系-1)
 
-> ###### 治愈系
+> ###### [治愈系](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#治愈系-1)
 
-> ###### 汲能系  
+> ###### [汲能系](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#汲能系-1)
 
-> ###### 转化系
+> ###### [转化系](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#转化系-1)
 
-> ###### 附魔系
+> ###### [附魔系](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#附魔系-1)
 
-> ###### 传送系
+> ###### [传送系](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#传送系-1)
   
   
   
