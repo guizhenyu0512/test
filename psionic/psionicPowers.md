@@ -1,9 +1,8 @@
-> 目录
+> ###### 目录
 
-[心灵异能](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#心灵异能)
+> ###### [心灵异能](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#心灵异能)
 
-[异能，能力与异能天赋](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#异能，能力与异能天赋)
-
+> ###### [异能，能力与异能天赋](https://github.com/guizhenyu0512/test/blob/master/psionic/psionicPowers.md#异能，能力与异能天赋)
 
 # 心灵异能
 
